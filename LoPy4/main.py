@@ -6,7 +6,7 @@ import usocket
 import ussl
 
 # Telegram settings
-TELEGRAM_BOT_TOKEN = "7573961112:AAEEVFCbAC2lCh-hoVkmB_CeEUpBLtdr0t0"
+TELEGRAM_BOT_TOKEN = ""
 TELEGRAM_CHAT_ID = 2026700667  # Ensure it's an integer
 
 # 🔵 Startup
